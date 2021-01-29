@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/usbank/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/usbank/static/js/main.a7062f12.chunk.js",
-    "main.js.map": "/usbank/static/js/main.a7062f12.chunk.js.map",
+    "main.js": "/usbank/static/js/main.78380210.chunk.js",
+    "main.js.map": "/usbank/static/js/main.78380210.chunk.js.map",
     "runtime-main.js": "/usbank/static/js/runtime-main.7a9f1a70.js",
     "runtime-main.js.map": "/usbank/static/js/runtime-main.7a9f1a70.js.map",
     "static/js/2.6999f4e5.chunk.js": "/usbank/static/js/2.6999f4e5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7a9f1a70.js",
     "static/js/2.6999f4e5.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a7062f12.chunk.js"
+    "static/js/main.78380210.chunk.js"
   ]
 }
